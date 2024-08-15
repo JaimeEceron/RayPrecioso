@@ -1,2 +1,2 @@
 <?php
-echo 'Buenas tardes mi amor';
+echo 'Buenas tardes mi amo';
